@@ -1,1 +1,1 @@
-job-test_slc:master
+job-test_slc_sample:master
